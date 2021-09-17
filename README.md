@@ -1,2 +1,3 @@
 # AERA-SIG-SRMA
-Website of the AERA Special Interest Group on Systematic Reviews and Meta-Analysis
+
+Website of the AERA Special Interest Group on Systematic Review and Meta-Analysis

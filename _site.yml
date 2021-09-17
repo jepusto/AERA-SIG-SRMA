@@ -1,0 +1,31 @@
+name: "AERA-SRMA-SIG"
+title: "AERA SIG on Systematic Review and Meta-Analysis"
+description: |
+  AERA-SIG-SRMA
+output_dir: "docs"
+repository_url: https://github.com/jepusto/AERA-SIG-SRMA
+navbar:
+  search: false
+  source_url: true
+  logo:
+    image: images/SIG-logo.png
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Leadership"
+      href: leadership.html
+    - text: "Seminar Series"
+      href: seminar.html
+    - text: "Programs"
+      menu:
+      - text: "AERA 2021"
+        href: AERA-2021.html
+      - text: "AERA 2020"
+        href: AERA-2020.html
+      - text: "AERA 2019"
+        href: AERA-2019.html
+    - text: "Resources"
+      href: resources.html
+    - icon: fab fa-twitter
+      href: https://twitter.com/SRMA_SIG
+output: distill::distill_article
